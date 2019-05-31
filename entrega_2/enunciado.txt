@@ -1,0 +1,28 @@
+3ª Entrega - Data Science
+
+    Na entrega passada, você manipulou dados e obteve métricas usando um banco de dados fornecido pelo Walmart dos EUA. 
+    Para esta entrega, o seu desafio é utilizar um modelo de regressão e, com isso, realizar predições sobre a receita futura das lojas presentes nos dados.
+    Você vai ter acesso ao arquivo de treino (“train.csv”), ao arquivo de teste (“test.csv”) e mais 2 arquivos com dados adicionais: dados sobre o tipo da loja e seu respectivo tamanho (“stores.csv”) e dados sobre parâmetros diversos (“features.csv”). 
+    No site do Kaggle, você pode encontrar mais informações sobre o desafio do Walmart e vários outros conteúdos sobre Data Science:
+
+https://www.kaggle.com/fernandol/cracking-the-walmart-sales-forecasting-challenge/data
+
+    A gente aconselha que você tente fazer um modelo de regressão sozinhx antes de olhar as soluções no Kaggle. Isso vai forçar você a buscar soluções para o problema, usando os conhecimentos que você já tem.
+    Depois de tentar fazer sozinhx, é bem legal consultar o Kaggle (e também seus colegas do Treinamento de Novos Piratas) para conhecer abordagens diferentes.
+    Como entrega, a gente pede que você envie seu código e dados de desempenho da sua predição. Se você tentou abordagens diferentes, documente todas elas. Saber que você tentou várias formas distintas é muito importante para a avaliação do seu desempenho na atividade.
+
+Bônus
+
+    Lembra que na última entrega a gente pediu para você buscar métricas externas que poderiam influenciar o desempenho das lojas? Se você formulou hipóteses sobre essas métricas, agora é hora de testá-las!
+    Pegue a métrica externa que você abordou na tarefa 2 e adicione-a ao seu modelo. Isso torna seu modelo mais preciso? 
+    Caso você não tenha considerado nenhuma métrica externa na entrega 2, não tem problema! Você pode selecionar uma métrica agora e adicioná-la ao seu modelo. Só não esquece de mostrar para a gente que métrica foi essa e de onde você tirou tais dados.
+
+IMPORTANTE: entrega até 01/06, às 9h!
+
+Forms para envio da entrega: 
+
+https://forms.gle/pTAWsWgbFYbtVPUw6
+
+Link para os datasets:
+
+https://drive.google.com/file/d/1Dk_p_y2qu-EopDrglKUgV1jXOsG34bMl/
